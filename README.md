@@ -243,9 +243,3 @@ El archivo generado (por defecto `resultados.json`) tiene la forma:
   Implementación de `main_miembro1.py` (interfaz por consola e integración) y definición de la gramática base (`gramatica.txt`).
 
 ---
-
-## Notas y posibles mejoras
-
-- Ampliar el soporte a otras gramáticas (por ejemplo, lógicas o con funciones).
-- Agregar más tipos de mutaciones para controlar mejor los errores de las cadenas inválidas.
-- Implementar una pequeña interfaz gráfica o una versión web para configurar parámetros sin usar la consola.
