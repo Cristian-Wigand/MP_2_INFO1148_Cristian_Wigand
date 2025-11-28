@@ -1,5 +1,5 @@
 # generador_validas.py
-
+ 
 from typing import Dict, List, Tuple
 import time
 import random
