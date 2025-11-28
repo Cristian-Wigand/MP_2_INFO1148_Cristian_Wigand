@@ -1,0 +1,8 @@
+# gramatica.txt  (ejemplo)
+START: E
+NONTERMINALS: E T F
+TERMINALS: + - * / % ( ) num
+
+E -> E + T | E - T | T
+T -> T * F | T / F | T % F | F
+F -> ( E ) | num
